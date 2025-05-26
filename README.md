@@ -31,7 +31,7 @@ A simple Laravel-based web application that allows individual users to register,
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/car-resale-web-app.git <br>
+git clone https://github.com/PoneNyaSoeNyunt/car-resale.git <br>
 cd car-resale-web-app
 
 ### 2. Install dependencies
